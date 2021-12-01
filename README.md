@@ -1,2 +1,2 @@
-# Ruby_mini_projects
+# Ruby_projects
 A collection of small projects using Ruby
